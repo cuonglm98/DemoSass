@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-wewewewewewewewe
-=======
-qqqqqqqqqqqqqqqqqq
->>>>>>> test
+aaaaaaaaaaaaaaaaaaaaa
